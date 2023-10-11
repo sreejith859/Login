@@ -1,0 +1,20 @@
+.input-form{
+    width: 19rem;
+    background-color: rgb(20, 206, 73);
+    
+    border-radius:10px;
+    height: 3rem;
+    border: none;
+    opacity: .6;
+}
+.body{
+    border-radius: 30px;
+}
+.btn{
+    width: 10rem;
+}
+::placeholder{
+    color: black;
+    opacity: 5;
+    padding: 10px;
+}
