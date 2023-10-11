@@ -36,6 +36,10 @@ function App() {
         message("password","Please enter a password with at least 8 characters");
         return;
       }
+      setName("");
+    setEmail("");
+    setPassword("");
+
     } catch (error) {
       console.log(error);
     }
